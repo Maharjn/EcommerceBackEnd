@@ -18,7 +18,11 @@ This project is the creation of the back end for an e-commerce site. This applic
 ## Application Demo
 The following video link shows the functionality of the Ecommerce BackEnd application:
 
+<<<<<<< HEAD
 [Ecommerce Back End application demo](https://drive.google.com/file/d/1YMU-CfhrJ-oZYW65U4dtpQkUj0Nkinpr/view)
+=======
+[Employee Tracker application demo](https://drive.google.com/file/d/1YMU-CfhrJ-oZYW65U4dtpQkUj0Nkinpr/view)
+>>>>>>> 2af67476f930823bf3e5c5ce41282dc380339ec8
 
 ## Installation
  * Clone the Repository.
