@@ -18,7 +18,7 @@ This project is the creation of the back end for an e-commerce site. This applic
 ## Application Demo
 The following video link shows the functionality of the Employee Tracker application:
 
-[Employee Tracker application demo](./demo-video/Employee_Tracker_Demo.webm)
+[Employee Tracker application demo](https://drive.google.com/file/d/1YMU-CfhrJ-oZYW65U4dtpQkUj0Nkinpr/view)
 
 ## Installation
 1- Clone the Repository.
