@@ -16,18 +16,18 @@
 This project is the creation of the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application displays creation of database using mySQL with models and associations.
 
 ## Application Demo
-The following video link shows the functionality of the Employee Tracker application:
+The following video link shows the functionality of the Ecommerce BackEnd application:
 
-[Employee Tracker application demo](./demo-video/Employee_Tracker_Demo.webm)
+[Ecommerce Back End application demo](https://drive.google.com/file/d/1YMU-CfhrJ-oZYW65U4dtpQkUj0Nkinpr/view)
 
 ## Installation
-1- Clone the Repository.
-2- Create a file name ".env" to the root folder.
-3- Add to ".env" file DB_NAME='database name' , DB_USER='your username' , DB_PASSWORD='your password'.
-4- Run npm install in the terminal.
-5- Open up MySQL shell and input and run source db/schema.sql
-6- Run npm run seed.
-7- Run npm start.
+ * Clone the Repository.
+ * Create a file name ".env" to the root folder.
+ * Add to ".env" file DB_NAME='database name' , DB_USER='your username' , DB_PASSWORD='your    password'.
+ * Run npm install in the terminal.
+ * Open up MySQL shell and input and run source db/schema.sql
+ * Run npm run seed.
+ * Run npm start.
 
 
 ## Usage
